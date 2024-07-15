@@ -1,7 +1,8 @@
 # In-class Intel Image Classification using Convolutional NNs
 Competition link: https://www.kaggle.com/t/5aee1022db0942818b00a31000c1f09a
 
-# For MODEL RESULTS see the PDF File
+# For Model Results Report see the PDF File:
+(https://github.com/ar7emiy/Intel-Image-Classification-usingCNNs/blob/main/IntelImageClassiffication-usingCNN-ArtY.pdf)
 
 # Overview of the assignement:
 The objective of this assignment is to enhance your understanding of Convolutional Neural Networks (CNNs).
